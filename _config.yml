@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Magic Blog # the main title
+title: Artificer Arcana
 
 tagline: A Blog About Magic # it will display as the sub-title
 
@@ -31,7 +31,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: the-wandmaker
+  name: The Wandmaker
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -60,7 +60,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
