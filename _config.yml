@@ -14,7 +14,10 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Artificer Arcana
+# Possible titles:
+# - Artificer Arcana
+# - Wyrd Press
+title: Wyrd Words
 
 tagline: A Blog About Magic # it will display as the sub-title
 
