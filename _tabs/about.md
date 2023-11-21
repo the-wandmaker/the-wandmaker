@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+The Wandmaker is a part-time artist and writer, specializing in a range of esoteric subjects. With a background in computer science, software engineering, and robotics, The Wandmaker seeks to combine science and technology with systems of symbolism and magic to create art and ideas that will inspire, enchant, and captivate.
