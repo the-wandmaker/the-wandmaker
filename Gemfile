@@ -23,4 +23,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Version 1.69.6 seems to break builds
-gem 'sass-embedded', '~> 1.69.5'
+gem 'sass-embedded', '<= 1.69.5'
