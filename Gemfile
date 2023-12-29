@@ -24,3 +24,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Version 1.69.6 seems to break builds
 gem 'sass-embedded', '<= 1.69.5'
+gem 'google-protobuf', '<= 3.25.0'
