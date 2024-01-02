@@ -31,14 +31,14 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: :LICENSE_NAME
-    name: Copyright 2023
+    name: Copyright 2024
     link: https://the-wandmaker.github.io/
 
   # Displayed in the footer
-  brief: Some rights reserved.
+  brief: All rights reserved.
   verbose: >-
-    Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+    Except where otherwise noted, the blog posts on this site are
+    the copyright of the respective post authors.
 
 meta: Using the :PLATFORM theme :THEME.
 
