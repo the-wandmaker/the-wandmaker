@@ -27,7 +27,7 @@ Drawing inspiration from nature is one of my preferred ways to approach concepts
 
 The Sator Square is a well-known acrostic palindrome and [word square](https://en.wikipedia.org/wiki/Word_square) that is first recorded to have existed in Pompeii prior to 62 AD. A breadth of theories exist, speculating its meaning and significance. These range from it originating as a puzzle game, to being a religious amulet with various magical properties. Like all things shrouded in mystery and ambiguity, the Sator Square immediately piques my interest.
 
-_As a brief aside, when we compute the sum of the letters of the Sator Square (such that A = 1, B = 2, etc.), the sum of the ordinal values of each characters is coincidentally 303, a palindromic number._
+_As a brief aside, when we compute the sum of the letters of the Sator Square (such that A = 1, B = 2, etc.), the sum of the ordinal values of each characters is coincidentally 303, a [palindromic number](https://en.wikipedia.org/wiki/Palindromic_number)._
 
 ```python
 # The Sator Square represented as a tuple of strings
@@ -71,9 +71,10 @@ total = sum([
     sum(latin_ord(letter) - 64 for letter in word) for word in SATOR_SQUARE
 ])
 
-
 print('Sum:', total)
 ```
+
+In addition to the Sator Square, a number of other "letter formulas" and related practices also exist. A few examples include the [Abracadabra charm](https://en.wikipedia.org/wiki/Abracadabra) in its ascending triangular form, dating originally from around 2 AD, or swathes of designs incorporating circular configurations of letters, used to represent an infinite cycle.[^circle-symbolism] In some cases, the importance of the palindrome was so significant that it would be mirrored additional times vertically and horizontally as a means of increasing its power.[^letter-formulae]
 
 Symmetry, or the lack thereof, can have a great deal of symbolic meaning. Palindromes, words or phrases which read the same way both forward and backward, quite literally cannot have their meaning reversed.
 
@@ -81,8 +82,11 @@ When we examine practices in forms of cartomancy such as tarot reading, it is of
 
 Modern divination practices involving runes also tend to follow similar principles to cartomancy when it comes to interpreting symbols. An upside down rune thus has the opposite meaning. Interestingly however, some runes are vertically symmetrical, which might be interpreted as them not having an opposite meaning.
 
-In terms of my own logo, I wanted to draw upon this concept and idea that symmetry allows a symbol to preserve its meaning, that it represents something which is intrinsically immutable. In terms of a logo being used for a business, this relates nicely to having good and unwavering principles: like supporting artists, small businesses, using sustainable and well-sourced materials.
+In terms of my own logo, I wanted to draw upon this concept and idea that symmetry allows a symbol to preserve its meaning, that it represents something which is intrinsically immutable. With logos being commonly used for businesses, this relates nicely to having good and unwavering principles: like supporting artists, small businesses, using sustainable and well-sourced materials.
+
+_Final thoughts: It shouldn't be disregarded that asymmetry is also a valuable tool. Something I hope to explore more in future designs is intentional ways that symbols might change their meaning when inverted or mirrored in different ways. Exploring this relationship between symbolic interpretation and physical representation can be fascinating and there are likely some incredible designs out there just waiting to be created._
 
 ***
 
-_Final thoughts: It shouldn't be disregarded that asymmetry is also a valuable tool. Something I hope to explore more in future designs is intentional ways that symbols might change their meaning when inverted or mirrored in different ways. Exploring this relationship between symbolic interpretation and physical representation can be fascinating and there are likely some incredible designs out there just waiting to be created._
+[^circle-symbolism]: Dartmouth University. "The Circle, The Wheel of Fortune & The Rose Window". <https://math.dartmouth.edu/~matc/math5.geometry/unit9/unit9.html>
+[^letter-formulae]: Mare Kõiva. "Palindromes and Letter Formulae: Some Reconsiderations". <https://www.folklore.ee/folklore/vol8/mare.htm>
