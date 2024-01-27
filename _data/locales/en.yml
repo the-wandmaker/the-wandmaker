@@ -32,7 +32,7 @@ copyright:
   license:
     template: :LICENSE_NAME
     name: Copyright 2024
-    link: https://the-wandmaker.github.io/
+    link: https://the-wandmaker.github.io
 
   # Displayed in the footer
   brief: All rights reserved.
@@ -47,7 +47,7 @@ not_found:
 
 notification:
   update_found: A new version of content is available.
-  update: Update
+  update: Refresh
 
 # ----- Posts related labels -----
 
